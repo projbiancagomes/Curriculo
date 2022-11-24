@@ -1,1 +1,1 @@
-file:///C:/Users/BiancaMilena/Desktop/curriculo/index.html
+https://projbiancagomes.github.io/curriculo/
